@@ -1,1 +1,6 @@
-"Hello world"
+public class Chuu {
+ public static void main (String[] args) {
+ }
+}
+
+System.out.println ("chuu te ama.");
